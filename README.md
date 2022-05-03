@@ -1,0 +1,1 @@
+# binx-email-templates
